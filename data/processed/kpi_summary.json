@@ -1,0 +1,427 @@
+{
+  "core_kpis": {
+    "total_sales": 2297200.65,
+    "total_profit": 286396.54,
+    "total_orders": 5009,
+    "total_quantity": 37873,
+    "average_order_value": 458.61,
+    "profit_margin_pct": 12.47,
+    "average_discount_pct": 15.62,
+    "average_shipping_days": 4.0,
+    "profitable_orders_pct": 79.26
+  },
+  "category_breakdown": [
+    {
+      "category": "Technology",
+      "sales": 836154.02,
+      "profit": 145455.44,
+      "quantity": 6939,
+      "orders": 1544,
+      "avg_discount": 0.1323226854358419,
+      "profit_margin_pct": 17.4,
+      "sales_share_pct": 36.4,
+      "avg_discount_pct": 13.23
+    },
+    {
+      "category": "Furniture",
+      "sales": 741999.73,
+      "profit": 18451.1,
+      "quantity": 8028,
+      "orders": 1764,
+      "avg_discount": 0.1739226779820839,
+      "profit_margin_pct": 2.49,
+      "sales_share_pct": 32.3,
+      "avg_discount_pct": 17.39
+    },
+    {
+      "category": "Office Supplies",
+      "sales": 719046.9,
+      "profit": 122490.0,
+      "quantity": 22906,
+      "orders": 3742,
+      "avg_discount": 0.15728509790906076,
+      "profit_margin_pct": 17.04,
+      "sales_share_pct": 31.3,
+      "avg_discount_pct": 15.73
+    }
+  ],
+  "regional_breakdown": [
+    {
+      "region": "West",
+      "sales": 725457.76,
+      "profit": 108418.31,
+      "quantity": 12266,
+      "orders": 1611,
+      "avg_discount": 0.10933499843896347,
+      "profit_margin_pct": 14.94,
+      "avg_discount_pct": 10.93
+    },
+    {
+      "region": "East",
+      "sales": 678781.3,
+      "profit": 91522.5,
+      "quantity": 10618,
+      "orders": 1401,
+      "avg_discount": 0.14536516853932585,
+      "profit_margin_pct": 13.48,
+      "avg_discount_pct": 14.54
+    },
+    {
+      "region": "Central",
+      "sales": 501239.76,
+      "profit": 39706.24,
+      "quantity": 8780,
+      "orders": 1175,
+      "avg_discount": 0.24035299182092124,
+      "profit_margin_pct": 7.92,
+      "avg_discount_pct": 24.04
+    },
+    {
+      "region": "South",
+      "sales": 391721.83,
+      "profit": 46749.49,
+      "quantity": 6209,
+      "orders": 822,
+      "avg_discount": 0.1472530864197531,
+      "profit_margin_pct": 11.93,
+      "avg_discount_pct": 14.73
+    }
+  ],
+  "segment_breakdown": [
+    {
+      "segment": "Consumer",
+      "sales": 1161401.12,
+      "profit": 134118.64,
+      "customers": 409,
+      "orders": 2586,
+      "profit_margin_pct": 11.55
+    },
+    {
+      "segment": "Corporate",
+      "sales": 706146.32,
+      "profit": 91979.13,
+      "customers": 236,
+      "orders": 1514,
+      "profit_margin_pct": 13.03
+    },
+    {
+      "segment": "Home Office",
+      "sales": 429653.21,
+      "profit": 60298.77,
+      "customers": 148,
+      "orders": 909,
+      "profit_margin_pct": 14.03
+    }
+  ],
+  "sub_category_breakdown": [
+    {
+      "category": "Technology",
+      "sub_category": "Phones",
+      "sales": 330007.1,
+      "profit": 44516.06,
+      "quantity": 3289,
+      "orders": 814,
+      "avg_discount": 0.15455568053993252,
+      "profit_margin_pct": 13.49,
+      "avg_discount_pct": 15.46
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Chairs",
+      "sales": 328449.1,
+      "profit": 26590.08,
+      "quantity": 2356,
+      "orders": 576,
+      "avg_discount": 0.17017828200972449,
+      "profit_margin_pct": 8.1,
+      "avg_discount_pct": 17.02
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Storage",
+      "sales": 223843.59,
+      "profit": 21278.9,
+      "quantity": 3158,
+      "orders": 777,
+      "avg_discount": 0.07470449172576832,
+      "profit_margin_pct": 9.51,
+      "avg_discount_pct": 7.47
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "sales": 206965.53,
+      "profit": -17725.57,
+      "quantity": 1241,
+      "orders": 307,
+      "avg_discount": 0.2612852664576803,
+      "profit_margin_pct": -8.56,
+      "avg_discount_pct": 26.13
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Binders",
+      "sales": 203412.68,
+      "profit": 30221.48,
+      "quantity": 5974,
+      "orders": 1316,
+      "avg_discount": 0.3722915298752462,
+      "profit_margin_pct": 14.86,
+      "avg_discount_pct": 37.23
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Machines",
+      "sales": 189238.6,
+      "profit": 3384.72,
+      "quantity": 440,
+      "orders": 112,
+      "avg_discount": 0.3060869565217391,
+      "profit_margin_pct": 1.79,
+      "avg_discount_pct": 30.61
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Accessories",
+      "sales": 167380.31,
+      "profit": 41936.78,
+      "quantity": 2976,
+      "orders": 718,
+      "avg_discount": 0.07845161290322582,
+      "profit_margin_pct": 25.05,
+      "avg_discount_pct": 7.85
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Copiers",
+      "sales": 149528.01,
+      "profit": 55617.88,
+      "quantity": 234,
+      "orders": 68,
+      "avg_discount": 0.16176470588235295,
+      "profit_margin_pct": 37.2,
+      "avg_discount_pct": 16.18
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Bookcases",
+      "sales": 114879.98,
+      "profit": -3472.59,
+      "quantity": 868,
+      "orders": 224,
+      "avg_discount": 0.211140350877193,
+      "profit_margin_pct": -3.02,
+      "avg_discount_pct": 21.11
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Appliances",
+      "sales": 107532.14,
+      "profit": 18137.99,
+      "quantity": 1729,
+      "orders": 451,
+      "avg_discount": 0.1665236051502146,
+      "profit_margin_pct": 16.87,
+      "avg_discount_pct": 16.65
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Furnishings",
+      "sales": 91705.12,
+      "profit": 13059.18,
+      "quantity": 3563,
+      "orders": 877,
+      "avg_discount": 0.13834900731452457,
+      "profit_margin_pct": 14.24,
+      "avg_discount_pct": 13.83
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Paper",
+      "sales": 78479.24,
+      "profit": 34053.11,
+      "quantity": 5178,
+      "orders": 1191,
+      "avg_discount": 0.07489051094890511,
+      "profit_margin_pct": 43.39,
+      "avg_discount_pct": 7.49
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Supplies",
+      "sales": 46673.52,
+      "profit": -1189.08,
+      "quantity": 647,
+      "orders": 187,
+      "avg_discount": 0.0768421052631579,
+      "profit_margin_pct": -2.55,
+      "avg_discount_pct": 7.68
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Art",
+      "sales": 27118.8,
+      "profit": 6527.84,
+      "quantity": 3000,
+      "orders": 731,
+      "avg_discount": 0.07487437185929649,
+      "profit_margin_pct": 24.07,
+      "avg_discount_pct": 7.49
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Envelopes",
+      "sales": 16476.38,
+      "profit": 6964.06,
+      "quantity": 906,
+      "orders": 249,
+      "avg_discount": 0.08031496062992127,
+      "profit_margin_pct": 42.27,
+      "avg_discount_pct": 8.03
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Labels",
+      "sales": 12486.3,
+      "profit": 5546.18,
+      "quantity": 1400,
+      "orders": 346,
+      "avg_discount": 0.06868131868131869,
+      "profit_margin_pct": 44.42,
+      "avg_discount_pct": 6.87
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Fasteners",
+      "sales": 3024.25,
+      "profit": 949.52,
+      "quantity": 914,
+      "orders": 215,
+      "avg_discount": 0.08202764976958525,
+      "profit_margin_pct": 31.4,
+      "avg_discount_pct": 8.2
+    }
+  ],
+  "top_unprofitable_products": [
+    {
+      "product_id": "TEC-MA-10000418",
+      "product_name": "Cubify CubeX 3D Printer Double Head Print",
+      "category": "Technology",
+      "sub_category": "Machines",
+      "total_sales": 11099.95,
+      "total_profit": -8879.97,
+      "units_sold": 9,
+      "avg_discount": 0.5333333333333333,
+      "profit_margin_pct": -80.0,
+      "avg_discount_pct": 53.33
+    },
+    {
+      "product_id": "TEC-MA-10000822",
+      "product_name": "Lexmark MX611dhe Monochrome Laser Printer",
+      "category": "Technology",
+      "sub_category": "Machines",
+      "total_sales": 16829.89,
+      "total_profit": -4589.97,
+      "units_sold": 18,
+      "avg_discount": 0.4,
+      "profit_margin_pct": -27.27,
+      "avg_discount_pct": 40.0
+    },
+    {
+      "product_id": "TEC-MA-10004125",
+      "product_name": "Cubify CubeX 3D Printer Triple Head Print",
+      "category": "Technology",
+      "sub_category": "Machines",
+      "total_sales": 7999.98,
+      "total_profit": -3839.99,
+      "units_sold": 4,
+      "avg_discount": 0.5,
+      "profit_margin_pct": -48.0,
+      "avg_discount_pct": 50.0
+    },
+    {
+      "product_id": "FUR-TA-10000198",
+      "product_name": "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "total_sales": 9917.64,
+      "total_profit": -2876.11,
+      "units_sold": 27,
+      "avg_discount": 0.28,
+      "profit_margin_pct": -29.0,
+      "avg_discount_pct": 28.0
+    },
+    {
+      "product_id": "FUR-TA-10001889",
+      "product_name": "Bush Advantage Collection Racetrack Conference Table",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "total_sales": 9544.72,
+      "total_profit": -1934.4,
+      "units_sold": 33,
+      "avg_discount": 0.35000000000000003,
+      "profit_margin_pct": -20.27,
+      "avg_discount_pct": 35.0
+    },
+    {
+      "product_id": "OFF-BI-10004995",
+      "product_name": "GBC DocuBind P400 Electric Binding System",
+      "category": "Office Supplies",
+      "sub_category": "Binders",
+      "total_sales": 17965.07,
+      "total_profit": -1878.17,
+      "units_sold": 27,
+      "avg_discount": 0.45,
+      "profit_margin_pct": -10.45,
+      "avg_discount_pct": 45.0
+    },
+    {
+      "product_id": "TEC-MA-10002412",
+      "product_name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+      "category": "Technology",
+      "sub_category": "Machines",
+      "total_sales": 22638.48,
+      "total_profit": -1811.08,
+      "units_sold": 6,
+      "avg_discount": 0.5,
+      "profit_margin_pct": -8.0,
+      "avg_discount_pct": 50.0
+    },
+    {
+      "product_id": "OFF-SU-10002881",
+      "product_name": "Martin Yale Chadless Opener Electric Letter Opener",
+      "category": "Office Supplies",
+      "sub_category": "Supplies",
+      "total_sales": 16656.21,
+      "total_profit": -1299.19,
+      "units_sold": 22,
+      "avg_discount": 0.10000000000000002,
+      "profit_margin_pct": -7.8,
+      "avg_discount_pct": 10.0
+    },
+    {
+      "product_id": "FUR-TA-10001950",
+      "product_name": "Balt Solid Wood Round Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "total_sales": 6518.76,
+      "total_profit": -1201.06,
+      "units_sold": 19,
+      "avg_discount": 0.2,
+      "profit_margin_pct": -18.42,
+      "avg_discount_pct": 20.0
+    },
+    {
+      "product_id": "FUR-TA-10004289",
+      "product_name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "total_sales": 1706.25,
+      "total_profit": -1148.44,
+      "units_sold": 15,
+      "avg_discount": 0.48333333333333334,
+      "profit_margin_pct": -67.31,
+      "avg_discount_pct": 48.33
+    }
+  ]
+}

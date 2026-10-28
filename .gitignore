@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node & Build artifacts
+node_modules/
+dist/
+.DS_Store
+*.local
+
+# Temporary database files
+*.db-journal

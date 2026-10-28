@@ -1,0 +1,38 @@
+{
+  "total_records": 9994,
+  "duplicate_rows": 0,
+  "missing_values": {
+    "row_id": 0,
+    "order_id": 0,
+    "order_date": 0,
+    "ship_date": 0,
+    "ship_mode": 0,
+    "customer_id": 0,
+    "customer_name": 0,
+    "segment": 0,
+    "country": 0,
+    "city": 0,
+    "state": 0,
+    "postal_code": 0,
+    "region": 0,
+    "product_id": 0,
+    "category": 0,
+    "sub_category": 0,
+    "product_name": 0,
+    "sales": 0,
+    "quantity": 0,
+    "discount": 0,
+    "profit": 0
+  },
+  "date_consistency_errors": 0,
+  "negative_sales_errors": 0,
+  "invalid_discount_errors": 0,
+  "non_positive_quantity_errors": 0,
+  "legitimate_negative_profit_records": 1871,
+  "missing_key_identifiers": {
+    "order_id": 0,
+    "customer_id": 0,
+    "product_id": 0
+  },
+  "quality_status": "PASSED"
+}
